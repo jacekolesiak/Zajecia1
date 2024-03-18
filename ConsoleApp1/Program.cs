@@ -25,7 +25,7 @@
         int sum = 0;
         foreach (int num in numbers)
         {
-            sum += num + 2;
+            sum += num;
         }
 
         // Obliczenie średniej
