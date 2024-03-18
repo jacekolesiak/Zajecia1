@@ -5,6 +5,8 @@
         // Przykładowa tablica liczb całkowitych
         int[] numbers = { 10, 20, 30, 40, 50 };
 
+        Console.WriteLine(123);
+        
         // Wywołanie metody Average i wyświetlenie wyniku
         double average = CalculateAverage(numbers);
         Console.WriteLine("Średnia liczb: " + average);
